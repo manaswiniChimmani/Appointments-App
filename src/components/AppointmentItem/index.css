@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.li {
+  border: 1px solid #171f46;
+  list-style: none;
+  font-family: 'Roboto';
+  border-radius: 10px;
+  margin-right: 10px;
+  padding: 5px;
+}
+.t {
+  display: flex;
+}
+.title {
+  color: #171f46;
+  font-size: 20px;
+  font-weight: bold;
+}
+.star-btn {
+  background-color: transparent;
+  border-width: 0px;
+  margin-left: 20px;
+}

@@ -1,0 +1,60 @@
+/* Write your CSS here */
+.bg-container {
+  background-image: linear-gradient(to bottom, #fbc7d4, #9796f0);
+  font-family: 'Roboto';
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+}
+.h1 {
+  color: #171f46;
+  font-size: 22px;
+}
+.appointment-container {
+  display: flex;
+}
+.img {
+  width: 310px;
+}
+.label {
+  font-size: 14px;
+  color: #b5b7c4;
+}
+.input {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.btn {
+  background-color: #8b5cf6;
+  color: #ffffff;
+  border-width: 0px;
+  border-radius: 5px;
+  padding: 10px;
+}
+.ap {
+  display: flex;
+  justify-content: space-between;
+}
+.h2 {
+  color: #171f46;
+  font-size: 18px;
+}
+.starred-btn {
+  background-color: transparent;
+  padding: 5px;
+  border: 1px solid #171f46;
+  border-radius: 20px;
+  width: 70px;
+  height: 32px;
+}
+ul {
+  display: flex;
+  flex-wrap: wrap;
+}
